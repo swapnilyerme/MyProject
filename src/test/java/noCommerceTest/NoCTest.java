@@ -17,6 +17,7 @@ import noCommercePOM.noComRestrationResultPage;
 
 public class NoCTest extends NoCommerceBase 
 {
+	//This is testing branch of github
 	NoCommerceLoginPage login;
 	noComRestrationResultPage result;
 	NoComHomePage  home;
